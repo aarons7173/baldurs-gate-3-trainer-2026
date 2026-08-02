@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.svg" width="100%" alt="Baldurs Gate 3 Trainer banner"/>
+<img src="https://github.com/skinsailorsnips/baldurs-gate-3-trainer/blob/main/assets/banner.svg" width="100%" alt="Baldurs Gate 3 Trainer banner"/>
 
 # baldurs-gate-3-trainer ⚔️🎲
 
